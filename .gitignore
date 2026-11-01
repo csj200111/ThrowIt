@@ -110,3 +110,7 @@ presentation.html
 presentation/
 *.pdf
 export-pdf.js
+
+# === Local development launcher ===
+/start-dev.cmd
+/start-dev.ps1
