@@ -114,3 +114,6 @@ export-pdf.js
 # === Local development launcher ===
 /start-dev.cmd
 /start-dev.ps1
+/start-dev.command
+/start-dev.py
+/.dev-logs/
